@@ -1,0 +1,19 @@
+{
+  "homepage": "https://github.com/ragav7332/38_Nodejs-Hallbooking_API , ",
+  "name": "38_nodejs_hallbooking_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ragavan R",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15"
+  }
+}
